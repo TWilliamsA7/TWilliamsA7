@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Tai, an aspiring computer engineer!
-- 👀 I’m interested in multiple areas and love the combination of hardware and software!
-- 🌱 I’m currently in school and taking on a variety of different projects
-- 📫 Check out my portfolio: https://TWilliamsA7.github.io
+# Hey, My name is Tai!
+
+![My Skils](https://skillicons.dev/icons?i=arduino,aws,blender,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,django,eclipse,fastapi,figma,flask,git,github,go,html,ai,java,js,latex,linkedin,matlab,mysql,nextjs,nodejs,npm,opencv,postgres,postman,powershell,py,pycharm,react,ros,sqlite,supabase,sklearn,tailwind,tensorflow,ts,unity,ubuntu,linux,vercel,vite,vscode,windows&perline=7)
 
 <!---
 TWilliamsA7/TWilliamsA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
