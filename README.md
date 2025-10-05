@@ -34,7 +34,6 @@ Feel free to reach out if you would like to chat or learn more about one of my p
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </div>
-<!---
-TWilliamsA7/TWilliamsA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1sVIG_h9rv8sGMX3y22G0PINETH7rL5zC/view?usp=sharing" download>Download my resume</a>
