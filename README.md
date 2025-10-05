@@ -20,6 +20,14 @@ Feel free to reach out if you would like to chat or learn more about one of my p
 ### Developer Tools
 ![Developer Tools](https://skillicons.dev/icons?i=aws,blender,cloudflare,cmake,discord,eclipse,figma,git,github,latex,npm,postman,powershell,pycharm,supabase,ubuntu,linux,vercel,vscode,windows&perline=10)
 
+### GitHub Stats
+<a href="https://github.com/TWilliamsA7">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TWilliamsA7&hide_rank=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/TWilliamsA7">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TWilliamsA7&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ### Connect with Me!
 <div>
   <a href="https://www.linkedin.com/in/tai-a-williams">
