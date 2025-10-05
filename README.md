@@ -7,7 +7,7 @@
 ![Frameworks](https://skillicons.dev/icons?i=arduino,bootstrap,django,fastapi,flask,mysql,nextjs,nodejs,opencv,postgres,react,ros,sqlite,sklearn,tailwind,tensorflow,unity,vite&perline=9)
 
 ### Developer Tools
-![Developer Tools](https://skillicons.dev/icons?i=aws,blender,cloudflare,cmake,discord,eclipse,figma,git,github,latex,postman,powershell,pycharm,supabase,ubuntu,linux,vercel,vscode,windows&perline=10)
+![Developer Tools](https://skillicons.dev/icons?i=aws,blender,cloudflare,cmake,discord,eclipse,figma,git,github,latex,npm,postman,powershell,pycharm,supabase,ubuntu,linux,vercel,vscode,windows&perline=10)
 
 ### Connect with Me!
 <div>
