@@ -1,5 +1,16 @@
 <img src="github-header-banner.png" alt="Tai Williams Header" width="600" />
 
+## 💫 About Me:
+My name is **Tai**, and I am a developer pursuing a Bachelor's Degree in Computer Engineering at the University of Central Florida!
+
+I love full stack development, embedded programming, and machine learning. I also enjoy learning new languages, frameworks, and technologies all the time!
+
+Feel free to reach out if you would like to chat or learn more about one of my projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tai-a-williams)
+
+---
+
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,js,matlab,py,ts)
 
