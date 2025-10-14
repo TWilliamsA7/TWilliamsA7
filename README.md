@@ -7,7 +7,6 @@ I love full stack development, embedded programming, and machine learning. I als
 
 Feel free to reach out if you would like to chat or learn more about one of my projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tai-a-williams)
 
 ---
 
